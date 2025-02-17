@@ -76,8 +76,16 @@ Freedom Debt Relief launched a **$5 million marketing campaign** in **Month 3** 
    git clone https://github.com/yourusername/marketing-campaign-analysis.git
 
 2. Navigate to Project Directory:
-   
+   ```bash
+   cd marketing-campaign-analysis
 
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook "Marketing Data Analysis Project.ipynb"
+
+4. Run the notebook cells sequentially to execute the analysis.
+5. Review the outputs, visualizations, and conclusions in the notebook.jupyt
+6. Modify or extend the analysis as needed using additional data or alternative metrics.
 
 ## **Contact & Contributions**
 Feel free to explore and contribute! If you have any suggestions, reach out or submit a pull request.
