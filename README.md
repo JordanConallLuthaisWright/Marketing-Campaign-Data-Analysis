@@ -56,8 +56,8 @@ Freedom Debt Relief launched a **$5 million marketing campaign** in **Month 3** 
   - Test different campaign timings for peak engagement.
 
 ## Files in This Repository
-- 📊 **Marketing Data Analysis Project.ipynb** – The full analysis, including data preparation, EDA, calculations, and conclusions.
-- 📂 **Data Files**
+- **Marketing Data Analysis Project.ipynb** – The full analysis, including data preparation, EDA, calculations, and conclusions.
+- **Data Files**
   - `calendar_data.csv` – Contains calendar-related data used for time-series mapping.
   - `client_data.csv` – Includes client acquisition details before, during, and after the campaign.
   - `deposit_data.csv` – Tracks deposit values, allowing for ROI calculation.
@@ -74,6 +74,9 @@ Freedom Debt Relief launched a **$5 million marketing campaign** in **Month 3** 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/marketing-campaign-analysis.git
+
+2. Navigate to Project Directory:
+   
 
 
 ## **Contact & Contributions**
