@@ -3,7 +3,7 @@
 ## Overview
 This project presents a **marketing performance analysis** for a simulated marketing campaign run by *Freedom Debt Relief*. The objective was to evaluate the success of the campaign using **quantitative metrics** and recommend improvements for future marketing strategies.
 
-The analysis is based on three datasets:
+The analysis is based on three datasets: [all three inside zipfile attached]
 
 - `calendar_data.csv`
 - `client_data.csv`
