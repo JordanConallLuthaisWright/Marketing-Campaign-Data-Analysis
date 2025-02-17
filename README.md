@@ -89,6 +89,7 @@ Freedom Debt Relief launched a **$5 million marketing campaign** in **Month 3** 
 
 ## **Contact & Contributions**
 Feel free to explore and contribute! If you have any suggestions, reach out or submit a pull request.
+- **Email**: [jordan.c.l.wright@gmail.com](mailto:jordan.c.l.wright@gmail.com)
 
 ---
 
