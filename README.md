@@ -73,7 +73,7 @@ Freedom Debt Relief launched a **$5 million marketing campaign** in **Month 3** 
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/marketing-campaign-analysis.git
+   git clone https://github.com/JordanConallLuthaisWright/Marketing-Campaign-Data-Analysis.git
 
 2. Navigate to Project Directory:
    ```bash
